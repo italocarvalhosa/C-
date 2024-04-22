@@ -1,0 +1,7 @@
+C:\Users\Tecnico\Desktop\Nova pasta\22-04-24\ConsoleApp1\obj\Debug\Pessoa.csproj.AssemblyReference.cache
+C:\Users\Tecnico\Desktop\Nova pasta\22-04-24\ConsoleApp1\obj\Debug\Pessoa.csproj.CoreCompileInputs.cache
+C:\Users\Tecnico\Desktop\Nova pasta\22-04-24\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Tecnico\Desktop\Nova pasta\22-04-24\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Tecnico\Desktop\Nova pasta\22-04-24\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Tecnico\Desktop\Nova pasta\22-04-24\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Tecnico\Desktop\Nova pasta\22-04-24\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
